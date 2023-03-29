@@ -1,0 +1,2 @@
+# linting
+ESLint and Prettier
